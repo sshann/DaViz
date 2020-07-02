@@ -1,4 +1,7 @@
-# DaViz - Distributed Algorithms Visualization
+# DaViz - Distributed Algorithms Visualization 
+![Maintenance](https://img.shields.io/maintenance/no/2020)
+
+**This forked repostory is not maintaned since 2020. Feel free to fork it and make updates. Check the root repository at [praalhans/DaViz](https://github.com/praalhans/DaViz) for a mainted version of DaViz**
 
 DaViz is a software tool written in the Haskell and Java programming languages for simulating and visualizing executions of distributed algorithms.
 
